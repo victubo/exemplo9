@@ -1,3 +1,9 @@
 {
-    "produtos": []
+  "produtos": [
+    {
+      "id": "33ef",
+      "nome": "Teste",
+      "foto": "https://conteudo.imguol.com.br/c/esporte/82/2022/08/03/iran-santana-alves-o-cara-da-luva-de-pedreiro-1659552671902_v2_3x4.jpg"
+    }
+  ]
 }
